@@ -1,0 +1,2 @@
+DNI: 1000012 - Sexo: M - Nombre: Francisco - Apellido: Rocha - Turno: tarde - Legajo: 108 - Sueldo: 10500 - Path: ../fotos/1000012-Rocha.png
+
